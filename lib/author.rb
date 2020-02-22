@@ -19,4 +19,3 @@ class Author
     Post.all.count
   end
 end
-© 2020 GitHub,
